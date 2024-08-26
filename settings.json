@@ -1,0 +1,51 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.accessibilityPageSize": 8,
+  "editor.fontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "workbench.iconTheme": "bearded-icons",
+  "workbench.colorTheme": "Bearded Theme Black & Amethyst Soft",
+  "workbench.startupEditor": "none",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "workbench.editor.tabSizing": "shrink",
+  "explorer.compactFolders": false,
+  // formatter
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.addMissingImports": "explicit"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "tailwindCSS.experimental.configFile": null,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.commandCenter": true,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "emulator.emulatorPathWindows": "C:\\Android\\Sdk\\emulator",
+  "gitlens.gitCommands.skipConfirmations": ["fetch:command"],
+  "security.workspace.trust.untrustedFiles": "open"
+}
