@@ -1,11 +1,12 @@
 [user]
-  name = ...
-  email = ...
-[init]
-  defaultBranch = master
+	name = ...
+	email = ...
 [core]
   editor = code --wait
-[alias]
+[init]
+  defaultBranch = master
+	[alias]
+  global = !git config --global --edit
   s = !git status -s
   c = !git add . && commit -m
   amend = !git add . && git commit --amend --no-edit
