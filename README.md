@@ -26,3 +26,9 @@
 </br> ▫ Swift, Astro
 
 ## 
+
+🚀 My projects:
+
+<strong>Planeja Plus</strong></br>
+Aplicativo de gerenciamento de listas e lembretes criado em React-Native.</br>
+[Repo](https://github.com/cfinotelli/planeja-plus)
