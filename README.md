@@ -1,4 +1,9 @@
+
+
 <h2>Hi, there! 👋 <p>I'm Carlos <strong>Finotelli</strong></p></h1>
+
+
+  
 
 🚀 I'm a front-end developer Web and Mobile
 
@@ -7,6 +12,11 @@
 🙏 I'm a follower of Christ
 
 💪 I'm a bodybuilding enthusiast
+
+</br>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cfinotelli.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/finotelli-carlos/))
 
 ## 
 
