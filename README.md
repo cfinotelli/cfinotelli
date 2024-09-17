@@ -30,5 +30,5 @@
 🚀 My projects:
 
 <strong>Planeja Plus</strong></br>
-Aplicativo de gerenciamento de listas e lembretes criado em React-Native.</br>
+List management and reminders app built in React-Native.</br>
 [Repo](https://github.com/cfinotelli/planeja-plus)
