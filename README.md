@@ -3,8 +3,6 @@
 <h2>Hi, there! 👋 <p>I'm Carlos <strong>Finotelli</strong></p></h1>
 
 
-  
-
 🚀 I'm a front-end developer Web and Mobile
 
 💜 I'm a lover of Javascript/Typescript and its ecosystem
@@ -43,4 +41,6 @@
 List management and reminders app built in React-Native.</br>
 [Repo](https://github.com/cfinotelli/planeja-plus)
 
-![Snake animation](https://github.com/cfinotelli/cfinotelli/blob/output/github-contribution-grid-snake.svg)
+<strong>Ez Travels</strong></br>
+Airbnb model travel scheduling with Next.js.</br>
+[Repo](https://github.com/cfinotelli/ez-travels-web)
