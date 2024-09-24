@@ -42,3 +42,5 @@
 <strong>Planeja Plus</strong></br>
 List management and reminders app built in React-Native.</br>
 [Repo](https://github.com/cfinotelli/planeja-plus)
+
+![Snake animation](https://github.com/cfinotelli/cfinotelli/blob/output/github-contribution-grid-snake.svg)
