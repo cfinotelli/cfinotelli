@@ -19,11 +19,11 @@
 ## 
 
 🔥 My main stack is:
-</br> ▫ Web - React , Next
-</br> ▫ Mobile - React-Native
-</br> ▫ Backend - Node, Nest
-</br> ▫ Databases - SQL, MongoDB, PostgreSQL, Firebase
-</br> ▫ Tools - AWS, Docker, VsCode, Figma
+</br> ▫ Web: React , Next
+</br> ▫ Mobile: React-Native
+</br> ▫ Backend: Node, Nest
+</br> ▫ Databases: SQL, MongoDB, PostgreSQL, Firebase
+</br> ▫ Tools: AWS, Docker, VsCode, Figma
 </br></br>
 
 📖 My studies actually are:
