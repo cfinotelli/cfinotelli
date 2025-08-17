@@ -49,5 +49,4 @@
     "window.commandCenter": true,
   
     "security.workspace.trust.untrustedFiles": "open",
-    "emulator.emulatorPathWindows": "C:\\Android\\Sdk\\emulator",
   }
