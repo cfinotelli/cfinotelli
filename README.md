@@ -5,7 +5,7 @@
 
 🚀 I'm a front-end developer Web and Mobile
 
-💜 I'm a lover of Javascript/Typescript and its ecosystem
+💜 I'm a lover of Javascript/Typescript
 
 🙏 I'm a follower of Christ
 
@@ -21,10 +21,11 @@
 🔥 My main stack is:
 </br> ▫ Web: React , Next
 </br> ▫ Mobile: React-Native
-</br> ▫ Backend: Node, Nest
+</br> ▫ Backend: Node, Nest, Serverless
 </br> ▫ Databases: SQL, MongoDB, PostgreSQL, Firebase
 </br> ▫ Tools: AWS, Docker, VsCode, Figma
-</br></br>
+</br>
+</br>
 
 📖 My studies actually are:
 </br> ▫ Python, Kotlin, and AWS
